@@ -1,7 +1,7 @@
 # BattleShips Game
 
 *IMPORTANT NOTE* :
-There is redundancy in the code. Because, I have finished the game and upload here immediately. The redundancy will be removed after I review the code.
+There is redundancy in the code. Because, I have finished the game and upload here immediately. The redundancy will be removed after I review the code. Otherwise, the code works perfectly.
 
 HOW TO PLAY
 
